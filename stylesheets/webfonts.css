@@ -1,0 +1,40 @@
+/* The "Author" webfonts embedded below are copyright protected by 
+Silas Dilworth with all rights reserved. If you wish to use them 
+on your website, email silas@typetrust.com for licensing info.*/
+
+@font-face {
+    font-family: 'Author';
+    src: url('authorsans-regular140217.eot');
+    src: url('authorsans-regular140217.eot?#iefix') format('embedded-opentype'),
+         url('authorsans-regular140217.woff') format('woff'),
+         url('authorsans-regular140217.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Author';
+    src: url('authorsans-bold140405.eot');
+    src: url('authorsans-bold140405.eot?#iefix') format('embedded-opentype'),
+         url('authorsans-bold140405.woff') format('woff'),
+         url('authorsans-bold140405.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Author';
+    src: url('authorsans-regularitalic140217two.eot');
+    src: url('authorsans-regularitalic140217two.eot?#iefix') format('embedded-opentype'),
+         url('authorsans-regularitalic140217two.woff') format('woff'),
+         url('authorsans-regularitalic140217two.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Author';
+    src: url('authorsans-regularitalic140217two.eot');
+    src: url('authorsans-regularitalic140217two.eot?#iefix') format('embedded-opentype'),
+         url('authorsans-regularitalic140217two.woff') format('woff'),
+         url('authorsans-regularitalic140217two.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
